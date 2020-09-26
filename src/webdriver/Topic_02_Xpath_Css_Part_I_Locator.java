@@ -5,7 +5,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.testng.annotations.Test;
 
-public class Topic_02_Xpath_Css {
+public class Topic_02_Xpath_Css_Part_I_Locator {
     WebDriver driver;
     @Test
     public void TC_01(){

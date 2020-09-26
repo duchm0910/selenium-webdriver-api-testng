@@ -2,14 +2,80 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="90ff13bb-d7d8-4216-91c8-6932743122ea" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/out/production/selenium-webdriver-api-testing/webdriver/Topic_02_Xpath_Css.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/webdriver/Topic_02_Xpath_Css.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/selenium-webdriver-api-testing/webdriver/Topic_02_Xpath_Css.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/webdriver/Topic_02_Xpath_Css.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/webdriver/Topic_02_Xpath_Css_Part_I_Locator.java" afterDir="false" />
     </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="943893134">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="26" />
+          <entry key="java" value="615" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="615" />
+          <entry key="PLAIN_TEXT" value="26" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/webdriver/Topic_02_Xpath_Css_Part_I_Locator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/webdriver/Topic_02_Xpath_Css_Part_II_FindElement.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="909">
+              <caret line="54" column="22" selection-start-line="54" selection-start-column="22" selection-end-line="54" selection-end-column="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#beforeClass#0;class#Topic_02_Xpath_Css_Part_II_FindElement#0" expanded="true" />
+                <element signature="method#TC_01_Login_Empty_Email_Password#0;class#Topic_02_Xpath_Css_Part_II_FindElement#0" expanded="true" />
+                <element signature="method#TC_02_Login_Invalid_Email#0;class#Topic_02_Xpath_Css_Part_II_FindElement#0" expanded="true" />
+                <element signature="method#TC_03_Login_Invalid_Password#0;class#Topic_02_Xpath_Css_Part_II_FindElement#0" expanded="true" />
+                <element signature="method#TC_04_#0;class#Topic_02_Xpath_Css_Part_II_FindElement#0" expanded="true" />
+                <element signature="e#1799#1800#0" expanded="true" />
+                <element signature="e#1824#1825#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -21,9 +87,63 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/webdriver/Topic_02_Xpath_Css_Part_I_Locator.java" />
+        <option value="$PROJECT_DIR$/src/webdriver/Topic_02_Xpath_Css_Part_II_FindElement.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="85" />
+    <option name="y" value="25" />
+    <option name="width" value="1750" />
+    <option name="height" value="970" />
+  </component>
   <component name="ProjectId" id="1hWws2nlmkQiz7GXgb2BvORVyot" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="selenium-webdriver-api-testing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="selenium-webdriver-api-testng" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="selenium-webdriver-api-testing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="selenium-webdriver-api-testng" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="selenium-webdriver-api-testing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="selenium-webdriver-api-testng" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="webdriver" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="selenium-webdriver-api-testing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="selenium-webdriver-api-testing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -31,7 +151,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1599866326198" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1601099995563" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -44,8 +164,20 @@
       <recent name="E:\Selenium Online 18\02 - Selenium API\browserDriver" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.Topic_02_Xpath_Css.TC_01">
-    <configuration name="Topic_01_Check_Environment" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.Topic_02_Xpath_Css_Part_II_FindElement.TC_01_Login_Empty_Email_Password">
+    <configuration name="Topic_01_Check_Environment" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="selenium-webdriver-api-testing" />
       <extension name="coverage">
         <pattern>
@@ -57,7 +189,6 @@
       <option name="PACKAGE_NAME" value="webdriver" />
       <option name="MAIN_CLASS_NAME" value="webdriver.Topic_01_Check_Environment" />
       <option name="GROUP_NAME" value="" />
-      <option name="TEST_OBJECT" value="CLASS" />
       <option name="PARAMETERS" value="" />
       <option name="OUTPUT_DIRECTORY" value="" />
       <option name="TEST_SEARCH_SCOPE">
@@ -71,7 +202,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Topic_02_Firefox_Chrome_Edge" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Topic_02_Firefox_Chrome_Edge" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="selenium-webdriver-api-testing" />
       <extension name="coverage">
         <pattern>
@@ -83,7 +214,6 @@
       <option name="PACKAGE_NAME" value="webdriver" />
       <option name="MAIN_CLASS_NAME" value="webdriver.Topic_02_Firefox_Chrome_Edge" />
       <option name="GROUP_NAME" value="" />
-      <option name="TEST_OBJECT" value="CLASS" />
       <option name="PARAMETERS" value="" />
       <option name="OUTPUT_DIRECTORY" value="" />
       <option name="TEST_SEARCH_SCOPE">
@@ -97,10 +227,44 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Topic_02_Xpath_Css.TC_01" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Topic_02_Xpath_Css_Part_II_FindElement.TC_01_Login_Empty_Email_Password" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="selenium-webdriver-api-testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="webdriver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="webdriver" />
+      <option name="MAIN_CLASS_NAME" value="webdriver.Topic_02_Xpath_Css_Part_II_FindElement" />
+      <option name="METHOD_NAME" value="TC_01_Login_Empty_Email_Password" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Topic_02_Xpath_Css_Part_I_Locator" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="selenium-webdriver-api-testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="webdriver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="webdriver" />
+      <option name="MAIN_CLASS_NAME" value="webdriver.Topic_02_Xpath_Css_Part_I_Locator" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Topic_02_Xpath_Css_Part_I_Locator.TC_01" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="selenium-webdriver-api-testing" />
       <option name="PACKAGE_NAME" value="webdriver" />
-      <option name="MAIN_CLASS_NAME" value="webdriver.Topic_02_Xpath_Css" />
+      <option name="MAIN_CLASS_NAME" value="webdriver.Topic_02_Xpath_Css_Part_I_Locator" />
       <option name="METHOD_NAME" value="TC_01" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
@@ -112,11 +276,15 @@
     <list>
       <item itemvalue="TestNG.Topic_01_Check_Environment" />
       <item itemvalue="TestNG.Topic_02_Firefox_Chrome_Edge" />
-      <item itemvalue="TestNG.Topic_02_Xpath_Css.TC_01" />
+      <item itemvalue="TestNG.Topic_02_Xpath_Css_Part_I_Locator.TC_01" />
+      <item itemvalue="TestNG.Topic_02_Xpath_Css_Part_I_Locator" />
+      <item itemvalue="TestNG.Topic_02_Xpath_Css_Part_II_FindElement.TC_01_Login_Empty_Email_Password" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.Topic_02_Xpath_Css.TC_01" />
+        <item itemvalue="TestNG.Topic_02_Xpath_Css_Part_II_FindElement.TC_01_Login_Empty_Email_Password" />
+        <item itemvalue="TestNG.Topic_02_Xpath_Css_Part_I_Locator" />
+        <item itemvalue="TestNG.Topic_02_Xpath_Css_Part_I_Locator.TC_01" />
         <item itemvalue="TestNG.Topic_02_Firefox_Chrome_Edge" />
         <item itemvalue="TestNG.Topic_01_Check_Environment" />
       </list>
@@ -134,6 +302,59 @@
       <updated>1599862711671</updated>
     </task>
     <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Topic_02_Xpath_Css - 2020.09.26 at 10h 26m 32s.xml">
+      <configuration name="Topic_02_Xpath_Css" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Topic_02_Xpath_Css_Part_II_FindElement_TC_01_Login_Empty_Email_Password - 2020.09.26 at 12h 34m 15s.xml">
+      <configuration name="Topic_02_Xpath_Css_Part_II_FindElement.TC_01_Login_Empty_Email_Password" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Topic_02_Xpath_Css_Part_II_FindElement_TC_01_Login_Empty_Email_Password - 2020.09.26 at 12h 34m 44s.xml">
+      <configuration name="Topic_02_Xpath_Css_Part_II_FindElement.TC_01_Login_Empty_Email_Password" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Topic_02_Xpath_Css_Part_II_FindElement_TC_01_Login_Empty_Email_Password - 2020.09.26 at 12h 35m 28s.xml">
+      <configuration name="Topic_02_Xpath_Css_Part_II_FindElement.TC_01_Login_Empty_Email_Password" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Topic_02_Xpath_Css_Part_II_FindElement_TC_01_Login_Empty_Email_Password - 2020.09.26 at 12h 37m 35s.xml">
+      <configuration name="Topic_02_Xpath_Css_Part_II_FindElement.TC_01_Login_Empty_Email_Password" configurationId="TestNG" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.24966443" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32907802" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" weight="0.32907802" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32907802" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="PlantUML" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Codota" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
   </component>
   <component name="WindowStateProjectService">
     <state width="1323" height="178" key="GridCell.Tab.0.bottom" timestamp="1600858433850">
@@ -160,6 +381,32 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="346" y="49" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1600231948333" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/webdriver/Topic_02_Xpath_Css_Part_I_Locator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/webdriver/Topic_02_Xpath_Css_Part_II_FindElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="909">
+          <caret line="54" column="22" selection-start-line="54" selection-start-column="22" selection-end-line="54" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#beforeClass#0;class#Topic_02_Xpath_Css_Part_II_FindElement#0" expanded="true" />
+            <element signature="method#TC_01_Login_Empty_Email_Password#0;class#Topic_02_Xpath_Css_Part_II_FindElement#0" expanded="true" />
+            <element signature="method#TC_02_Login_Invalid_Email#0;class#Topic_02_Xpath_Css_Part_II_FindElement#0" expanded="true" />
+            <element signature="method#TC_03_Login_Invalid_Password#0;class#Topic_02_Xpath_Css_Part_II_FindElement#0" expanded="true" />
+            <element signature="method#TC_04_#0;class#Topic_02_Xpath_Css_Part_II_FindElement#0" expanded="true" />
+            <element signature="e#1799#1800#0" expanded="true" />
+            <element signature="e#1824#1825#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="masterDetails">
     <states>

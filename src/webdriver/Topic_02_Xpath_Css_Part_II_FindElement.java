@@ -36,10 +36,23 @@ public class Topic_02_Xpath_Css_Part_II_FindElement {
         Assert.assertEquals(getErrMessPass,"This is a required field.");
 
 
-
     }
     @Test
     public void TC_02_Login_Invalid_Email(){
+//        Click vào account link
+        driver.findElement(By.xpath("//div[@class='footer']//a[@title='My Account']")).click();
+
+//        Nhap invalid email
+        driver.findElement(By.id("email")).sendKeys("123123@123123");
+//        Nhap valid password
+        driver.findElement(By.name("login[password]")).sendKeys("123456");
+//        click button login
+        driver.findElement(By.name("send")).click();
+//        Kt message invalid email
+        String getErrMessEmail = driver.findElement(By.id("advice-validate-email-email")).getText();
+        Assert.assertEquals(getErrMessEmail,"Please enter a valid email address. For example johndoe@domain.com.");
+
+
 
     }
     @Test

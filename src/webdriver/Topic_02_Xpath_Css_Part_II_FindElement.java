@@ -15,6 +15,8 @@ public class Topic_02_Xpath_Css_Part_II_FindElement {
     WebDriver driver;
     Random rand;
     String emailAddress;
+    String firstName, lastName, middleName;
+    String getEmailAddress1;
 
     @BeforeClass
     public void beforeClass() {
@@ -25,6 +27,9 @@ public class Topic_02_Xpath_Css_Part_II_FindElement {
         driver.get("http://live.demoguru99.com/index.php/");
 
         emailAddress = "autotest" + rand.nextInt(999) + "@automation.vn";
+        firstName = "Anthony";
+        middleName = "Hoang";
+        lastName = "Duc";
     }
 
     @Test
@@ -120,31 +125,49 @@ public class Topic_02_Xpath_Css_Part_II_FindElement {
 //        click vao create an account button
         driver.findElement(By.xpath("//a[@title='Create an Account']")).click();
 //        Nhap
-        driver.findElement(By.id("firstname")).sendKeys("Anthony");
-        driver.findElement(By.id("middlename")).sendKeys("Hoang");
-        driver.findElement(By.id("lastname")).sendKeys("Duc");
+
+
+        driver.findElement(By.id("firstname")).sendKeys(firstName);
+        driver.findElement(By.id("middlename")).sendKeys(middleName);
+        driver.findElement(By.id("lastname")).sendKeys(lastName);
         driver.findElement(By.id("email_address")).sendKeys(emailAddress);
         driver.findElement(By.id("password")).sendKeys("123456");
-        driver.findElement(By.id("confirmation")).sendKeys("123456");
         driver.findElement(By.id("confirmation")).sendKeys("123456");
 
 //        Click Register button
         driver.findElement(By.cssSelector("button[title='Register']")).click();
 //        so sanh
-        String msgSuccess = driver.findElement(By.xpath("//li[@class='success-msg']//span")).getText();
+        String msgSuccess = driver.findElement(By.xpath("//li[@class='success-msg']//ul//li//span")).getText();
         System.out.println(msgSuccess);
 
         Assert.assertEquals(msgSuccess,"Thank you for registering with Main Website Store.");
 
         String contactInformation = driver.findElement(By.xpath("//h3[text()='Contact Information']/parent::div/following-sibling::div[@class='box-content']/p")).getText();
-        Assert.assertTrue(contactInformation.contains("Anthony"));
-        Assert.assertTrue(contactInformation.contains("Duc"));
+        System.out.println(contactInformation);
+        Assert.assertTrue(contactInformation.contains(firstName));
+        Assert.assertTrue(contactInformation.contains(lastName));
         Assert.assertTrue(contactInformation.contains(emailAddress));
 //       logout
         driver.findElement(By.xpath("//div[@class='account-cart-wrapper']//span[text()='Account']")).click();
         driver.findElement(By.xpath("//a[@title='Log Out']")).click();
 //kt logo hien thi
         Assert.assertTrue(driver.findElement(By.cssSelector("img[src$='logo.png']")).isDisplayed());
+    }
+    @Test
+    public void TC_07_Login_Valid_Email_Password(){
+        getEmailAddress1 = emailAddress;
+        //Click link my account
+        driver.findElement(By.xpath("//div[@class='footer']//a[text()='My Account']")).click();
+//        nhap valid email password
+        driver.findElement(By.name("login[username]")).sendKeys(getEmailAddress1);
+        driver.findElement(By.id("pass")).sendKeys("123456");
+//        Click login
+        driver.findElement(By.id("send2")).click();
+//        verify welcome messsage
+        String welcomeMsg = driver.findElement(By.xpath("//div[@class='welcome-msg']//strong")).getText();
+        Assert.assertEquals(welcomeMsg,"Hello, "+firstName+" "+middleName+" "+lastName+"!");
+
+
     }
 
     @AfterTest

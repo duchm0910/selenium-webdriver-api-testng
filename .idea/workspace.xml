@@ -49,22 +49,10 @@
       <recent name="E:\Selenium Online 18\02 - Selenium API\browserDriver" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.Topic_02_Xpath_Css_Part_II_FindElement.TC_06_Register_To_System">
+  <component name="RunManager" selected="TestNG.Topic_02_Xpath_Css_Part_II_FindElement.TC_07_Login_Valid_Email_Password">
     <configuration name="Topic_01_Random_Email" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="javaForTest.Topic_01_Random_Email" />
       <module name="selenium-webdriver-api-testing" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Topic_02_Xpath_Css_Part_II_FindElement.TC_03_Login_Invalid_Password" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="selenium-webdriver-api-testing" />
-      <option name="PACKAGE_NAME" value="webdriver" />
-      <option name="MAIN_CLASS_NAME" value="webdriver.Topic_02_Xpath_Css_Part_II_FindElement" />
-      <option name="METHOD_NAME" value="TC_03_Login_Invalid_Password" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -105,20 +93,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Topic_02_Xpath_Css_Part_II_FindElement.TC_07_Login_Valid_Email_Password" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="selenium-webdriver-api-testing" />
+      <option name="PACKAGE_NAME" value="webdriver" />
+      <option name="MAIN_CLASS_NAME" value="webdriver.Topic_02_Xpath_Css_Part_II_FindElement" />
+      <option name="METHOD_NAME" value="TC_07_Login_Valid_Email_Password" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="TestNG.Topic_02_Xpath_Css_Part_II_FindElement.TC_03_Login_Invalid_Password" />
+      <item itemvalue="Application.Topic_01_Random_Email" />
       <item itemvalue="TestNG.Topic_02_Xpath_Css_Part_II_FindElement.TC_04_" />
       <item itemvalue="TestNG.Topic_02_Xpath_Css_Part_II_FindElement.TC_05_Login_Success" />
-      <item itemvalue="Application.Topic_01_Random_Email" />
       <item itemvalue="TestNG.Topic_02_Xpath_Css_Part_II_FindElement.TC_06_Register_To_System" />
+      <item itemvalue="TestNG.Topic_02_Xpath_Css_Part_II_FindElement.TC_07_Login_Valid_Email_Password" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.Topic_02_Xpath_Css_Part_II_FindElement.TC_07_Login_Valid_Email_Password" />
         <item itemvalue="TestNG.Topic_02_Xpath_Css_Part_II_FindElement.TC_06_Register_To_System" />
         <item itemvalue="Application.Topic_01_Random_Email" />
         <item itemvalue="TestNG.Topic_02_Xpath_Css_Part_II_FindElement.TC_05_Login_Success" />
         <item itemvalue="TestNG.Topic_02_Xpath_Css_Part_II_FindElement.TC_04_" />
-        <item itemvalue="TestNG.Topic_02_Xpath_Css_Part_II_FindElement.TC_03_Login_Invalid_Password" />
       </list>
     </recent_temporary>
   </component>
@@ -140,22 +140,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1601263413166" />
-    <state width="1323" height="167" key="GridCell.Tab.0.bottom" timestamp="1602840984622">
+    <state width="1323" height="225" key="GridCell.Tab.0.bottom" timestamp="1603097336157">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="167" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1602840984622" />
-    <state width="1323" height="167" key="GridCell.Tab.0.center" timestamp="1602840984622">
+    <state width="1323" height="225" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1603097336157" />
+    <state width="1323" height="225" key="GridCell.Tab.0.center" timestamp="1603097336157">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="167" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1602840984622" />
-    <state width="1323" height="167" key="GridCell.Tab.0.left" timestamp="1602840984622">
+    <state width="1323" height="225" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1603097336157" />
+    <state width="1323" height="225" key="GridCell.Tab.0.left" timestamp="1603097336157">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="167" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1602840984622" />
-    <state width="1323" height="167" key="GridCell.Tab.0.right" timestamp="1602840984622">
+    <state width="1323" height="225" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1603097336157" />
+    <state width="1323" height="225" key="GridCell.Tab.0.right" timestamp="1603097336157">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="167" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1602840984622" />
+    <state width="1323" height="225" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1603097336157" />
     <state x="184" y="9" key="SettingsEditor" timestamp="1600141415131">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

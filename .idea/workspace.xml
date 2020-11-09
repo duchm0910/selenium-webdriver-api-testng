@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="90ff13bb-d7d8-4216-91c8-6932743122ea" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webdriver/Topic_02_Xpath_Css_Part_II_FindElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/webdriver/Topic_02_Xpath_Css_Part_II_FindElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/selenium-webdriver-api-testing/webdriver/Topic_02_Firefox_Chrome_Edge.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/selenium-webdriver-api-testing/webdriver/Topic_02_Firefox_Chrome_Edge.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/webdriver/Topic_02_Firefox_Chrome_Edge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/webdriver/Topic_02_Firefox_Chrome_Edge.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,12 +21,6 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="85" />
-    <option name="y" value="25" />
-    <option name="width" value="1750" />
-    <option name="height" value="970" />
-  </component>
   <component name="ProjectId" id="1hWws2nlmkQiz7GXgb2BvORVyot" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -37,11 +32,11 @@
   <component name="PropertiesComponent">
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1601179999239" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Automation/AutomationDemo" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -49,19 +44,23 @@
       <recent name="E:\Selenium Online 18\02 - Selenium API\browserDriver" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.Topic_02_Xpath_Css_Part_II_FindElement.TC_07_Login_Valid_Email_Password">
-    <configuration name="Topic_01_Random_Email" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaForTest.Topic_01_Random_Email" />
+  <component name="RunManager" selected="TestNG.Topic_05_Webdriver_Element_Part_II.TC_05_Validate_Register_Form">
+    <configuration name="Topic_05_Webdriver_Element_Part_II" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="selenium-webdriver-api-testing" />
+      <option name="PACKAGE_NAME" value="webdriver" />
+      <option name="MAIN_CLASS_NAME" value="webdriver.Topic_05_Webdriver_Element_Part_II" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Topic_02_Xpath_Css_Part_II_FindElement.TC_04_" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Topic_05_Webdriver_Element_Part_II.TC_01_Element_Displayed" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="selenium-webdriver-api-testing" />
       <option name="PACKAGE_NAME" value="webdriver" />
-      <option name="MAIN_CLASS_NAME" value="webdriver.Topic_02_Xpath_Css_Part_II_FindElement" />
-      <option name="METHOD_NAME" value="TC_04_" />
+      <option name="MAIN_CLASS_NAME" value="webdriver.Topic_05_Webdriver_Element_Part_II" />
+      <option name="METHOD_NAME" value="TC_01_Element_Displayed" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -69,11 +68,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Topic_02_Xpath_Css_Part_II_FindElement.TC_05_Login_Success" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Topic_05_Webdriver_Element_Part_II.TC_03_Element_Enabled" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="selenium-webdriver-api-testing" />
       <option name="PACKAGE_NAME" value="webdriver" />
-      <option name="MAIN_CLASS_NAME" value="webdriver.Topic_02_Xpath_Css_Part_II_FindElement" />
-      <option name="METHOD_NAME" value="TC_05_Login_Success" />
+      <option name="MAIN_CLASS_NAME" value="webdriver.Topic_05_Webdriver_Element_Part_II" />
+      <option name="METHOD_NAME" value="TC_03_Element_Enabled" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -81,11 +80,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Topic_02_Xpath_Css_Part_II_FindElement.TC_06_Register_To_System" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Topic_05_Webdriver_Element_Part_II.TC_04_Element_Selected" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="selenium-webdriver-api-testing" />
       <option name="PACKAGE_NAME" value="webdriver" />
-      <option name="MAIN_CLASS_NAME" value="webdriver.Topic_02_Xpath_Css_Part_II_FindElement" />
-      <option name="METHOD_NAME" value="TC_06_Register_To_System" />
+      <option name="MAIN_CLASS_NAME" value="webdriver.Topic_05_Webdriver_Element_Part_II" />
+      <option name="METHOD_NAME" value="TC_04_Element_Selected" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -93,11 +92,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Topic_02_Xpath_Css_Part_II_FindElement.TC_07_Login_Valid_Email_Password" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Topic_05_Webdriver_Element_Part_II.TC_05_Validate_Register_Form" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="selenium-webdriver-api-testing" />
       <option name="PACKAGE_NAME" value="webdriver" />
-      <option name="MAIN_CLASS_NAME" value="webdriver.Topic_02_Xpath_Css_Part_II_FindElement" />
-      <option name="METHOD_NAME" value="TC_07_Login_Valid_Email_Password" />
+      <option name="MAIN_CLASS_NAME" value="webdriver.Topic_05_Webdriver_Element_Part_II" />
+      <option name="METHOD_NAME" value="TC_05_Validate_Register_Form" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -106,19 +105,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Topic_01_Random_Email" />
-      <item itemvalue="TestNG.Topic_02_Xpath_Css_Part_II_FindElement.TC_04_" />
-      <item itemvalue="TestNG.Topic_02_Xpath_Css_Part_II_FindElement.TC_05_Login_Success" />
-      <item itemvalue="TestNG.Topic_02_Xpath_Css_Part_II_FindElement.TC_06_Register_To_System" />
-      <item itemvalue="TestNG.Topic_02_Xpath_Css_Part_II_FindElement.TC_07_Login_Valid_Email_Password" />
+      <item itemvalue="TestNG.Topic_05_Webdriver_Element_Part_II" />
+      <item itemvalue="TestNG.Topic_05_Webdriver_Element_Part_II.TC_01_Element_Displayed" />
+      <item itemvalue="TestNG.Topic_05_Webdriver_Element_Part_II.TC_03_Element_Enabled" />
+      <item itemvalue="TestNG.Topic_05_Webdriver_Element_Part_II.TC_04_Element_Selected" />
+      <item itemvalue="TestNG.Topic_05_Webdriver_Element_Part_II.TC_05_Validate_Register_Form" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.Topic_02_Xpath_Css_Part_II_FindElement.TC_07_Login_Valid_Email_Password" />
-        <item itemvalue="TestNG.Topic_02_Xpath_Css_Part_II_FindElement.TC_06_Register_To_System" />
-        <item itemvalue="Application.Topic_01_Random_Email" />
-        <item itemvalue="TestNG.Topic_02_Xpath_Css_Part_II_FindElement.TC_05_Login_Success" />
-        <item itemvalue="TestNG.Topic_02_Xpath_Css_Part_II_FindElement.TC_04_" />
+        <item itemvalue="TestNG.Topic_05_Webdriver_Element_Part_II.TC_05_Validate_Register_Form" />
+        <item itemvalue="TestNG.Topic_05_Webdriver_Element_Part_II.TC_04_Element_Selected" />
+        <item itemvalue="TestNG.Topic_05_Webdriver_Element_Part_II.TC_03_Element_Enabled" />
+        <item itemvalue="TestNG.Topic_05_Webdriver_Element_Part_II" />
+        <item itemvalue="TestNG.Topic_05_Webdriver_Element_Part_II.TC_01_Element_Displayed" />
       </list>
     </recent_temporary>
   </component>
@@ -136,34 +135,38 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1601263413166">
+    <state x="92" y="92" width="1182" height="544" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1604462652518">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1601263413166" />
-    <state width="1323" height="225" key="GridCell.Tab.0.bottom" timestamp="1603097336157">
+    <state x="92" y="92" width="1182" height="544" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1366.728@0.0.1366.728" timestamp="1604462652518" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1604484113039">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="225" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1603097336157" />
-    <state width="1323" height="225" key="GridCell.Tab.0.center" timestamp="1603097336157">
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1604484113039" />
+    <state width="1323" height="192" key="GridCell.Tab.0.bottom" timestamp="1604573916964">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="225" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1603097336157" />
-    <state width="1323" height="225" key="GridCell.Tab.0.left" timestamp="1603097336157">
+    <state width="1323" height="192" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1604573916964" />
+    <state width="1323" height="192" key="GridCell.Tab.0.center" timestamp="1604573916964">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="225" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1603097336157" />
-    <state width="1323" height="225" key="GridCell.Tab.0.right" timestamp="1603097336157">
+    <state width="1323" height="192" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1604573916964" />
+    <state width="1323" height="192" key="GridCell.Tab.0.left" timestamp="1604573916964">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="225" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1603097336157" />
-    <state x="184" y="9" key="SettingsEditor" timestamp="1600141415131">
+    <state width="1323" height="192" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1604573916964" />
+    <state width="1323" height="192" key="GridCell.Tab.0.right" timestamp="1604573916964">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1600141415131" />
-    <state x="346" y="49" key="search.everywhere.popup" timestamp="1600231948333">
+    <state width="1323" height="192" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1604573916964" />
+    <state x="184" y="9" key="SettingsEditor" timestamp="1604573884583">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="346" y="49" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1600231948333" />
+    <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1604573884583" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1604385636261">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1604385636261" />
   </component>
   <component name="masterDetails">
     <states>

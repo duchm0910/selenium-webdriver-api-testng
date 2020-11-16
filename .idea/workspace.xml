@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="90ff13bb-d7d8-4216-91c8-6932743122ea" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/selenium-webdriver-api-testing/webdriver/Topic_02_Firefox_Chrome_Edge.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/selenium-webdriver-api-testing/webdriver/Topic_02_Firefox_Chrome_Edge.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webdriver/Topic_02_Firefox_Chrome_Edge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/webdriver/Topic_02_Firefox_Chrome_Edge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/webdriver/Topic_06_Textbox_Textarea.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/webdriver/Topic_06_Textbox_Textarea.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +35,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -44,23 +43,12 @@
       <recent name="E:\Selenium Online 18\02 - Selenium API\browserDriver" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.Topic_05_Webdriver_Element_Part_II.TC_05_Validate_Register_Form">
-    <configuration name="Topic_05_Webdriver_Element_Part_II" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.Topic_07_Custom_Dropdown_Part_I.TC_06_Multiple_Custom_Dropdown">
+    <configuration name="Topic_07_Custom_Dropdown_Part_I.TC_02_Angular" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="selenium-webdriver-api-testing" />
       <option name="PACKAGE_NAME" value="webdriver" />
-      <option name="MAIN_CLASS_NAME" value="webdriver.Topic_05_Webdriver_Element_Part_II" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Topic_05_Webdriver_Element_Part_II.TC_01_Element_Displayed" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="selenium-webdriver-api-testing" />
-      <option name="PACKAGE_NAME" value="webdriver" />
-      <option name="MAIN_CLASS_NAME" value="webdriver.Topic_05_Webdriver_Element_Part_II" />
-      <option name="METHOD_NAME" value="TC_01_Element_Displayed" />
+      <option name="MAIN_CLASS_NAME" value="webdriver.Topic_07_Custom_Dropdown_Part_I" />
+      <option name="METHOD_NAME" value="TC_02_Angular" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -68,11 +56,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Topic_05_Webdriver_Element_Part_II.TC_03_Element_Enabled" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Topic_07_Custom_Dropdown_Part_I.TC_03_React" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="selenium-webdriver-api-testing" />
       <option name="PACKAGE_NAME" value="webdriver" />
-      <option name="MAIN_CLASS_NAME" value="webdriver.Topic_05_Webdriver_Element_Part_II" />
-      <option name="METHOD_NAME" value="TC_03_Element_Enabled" />
+      <option name="MAIN_CLASS_NAME" value="webdriver.Topic_07_Custom_Dropdown_Part_I" />
+      <option name="METHOD_NAME" value="TC_03_React" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -80,11 +68,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Topic_05_Webdriver_Element_Part_II.TC_04_Element_Selected" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Topic_07_Custom_Dropdown_Part_I.TC_04_VueJS" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="selenium-webdriver-api-testing" />
       <option name="PACKAGE_NAME" value="webdriver" />
-      <option name="MAIN_CLASS_NAME" value="webdriver.Topic_05_Webdriver_Element_Part_II" />
-      <option name="METHOD_NAME" value="TC_04_Element_Selected" />
+      <option name="MAIN_CLASS_NAME" value="webdriver.Topic_07_Custom_Dropdown_Part_I" />
+      <option name="METHOD_NAME" value="TC_04_VueJS" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -92,11 +80,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Topic_05_Webdriver_Element_Part_II.TC_05_Validate_Register_Form" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Topic_07_Custom_Dropdown_Part_I.TC_05_Edit" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="selenium-webdriver-api-testing" />
       <option name="PACKAGE_NAME" value="webdriver" />
-      <option name="MAIN_CLASS_NAME" value="webdriver.Topic_05_Webdriver_Element_Part_II" />
-      <option name="METHOD_NAME" value="TC_05_Validate_Register_Form" />
+      <option name="MAIN_CLASS_NAME" value="webdriver.Topic_07_Custom_Dropdown_Part_I" />
+      <option name="METHOD_NAME" value="TC_05_Edit" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Topic_07_Custom_Dropdown_Part_I.TC_06_Multiple_Custom_Dropdown" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="selenium-webdriver-api-testing" />
+      <option name="PACKAGE_NAME" value="webdriver" />
+      <option name="MAIN_CLASS_NAME" value="webdriver.Topic_07_Custom_Dropdown_Part_I" />
+      <option name="METHOD_NAME" value="TC_06_Multiple_Custom_Dropdown" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -105,19 +105,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="TestNG.Topic_05_Webdriver_Element_Part_II" />
-      <item itemvalue="TestNG.Topic_05_Webdriver_Element_Part_II.TC_01_Element_Displayed" />
-      <item itemvalue="TestNG.Topic_05_Webdriver_Element_Part_II.TC_03_Element_Enabled" />
-      <item itemvalue="TestNG.Topic_05_Webdriver_Element_Part_II.TC_04_Element_Selected" />
-      <item itemvalue="TestNG.Topic_05_Webdriver_Element_Part_II.TC_05_Validate_Register_Form" />
+      <item itemvalue="TestNG.Topic_07_Custom_Dropdown_Part_I.TC_02_Angular" />
+      <item itemvalue="TestNG.Topic_07_Custom_Dropdown_Part_I.TC_03_React" />
+      <item itemvalue="TestNG.Topic_07_Custom_Dropdown_Part_I.TC_04_VueJS" />
+      <item itemvalue="TestNG.Topic_07_Custom_Dropdown_Part_I.TC_05_Edit" />
+      <item itemvalue="TestNG.Topic_07_Custom_Dropdown_Part_I.TC_06_Multiple_Custom_Dropdown" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.Topic_05_Webdriver_Element_Part_II.TC_05_Validate_Register_Form" />
-        <item itemvalue="TestNG.Topic_05_Webdriver_Element_Part_II.TC_04_Element_Selected" />
-        <item itemvalue="TestNG.Topic_05_Webdriver_Element_Part_II.TC_03_Element_Enabled" />
-        <item itemvalue="TestNG.Topic_05_Webdriver_Element_Part_II" />
-        <item itemvalue="TestNG.Topic_05_Webdriver_Element_Part_II.TC_01_Element_Displayed" />
+        <item itemvalue="TestNG.Topic_07_Custom_Dropdown_Part_I.TC_06_Multiple_Custom_Dropdown" />
+        <item itemvalue="TestNG.Topic_07_Custom_Dropdown_Part_I.TC_05_Edit" />
+        <item itemvalue="TestNG.Topic_07_Custom_Dropdown_Part_I.TC_04_VueJS" />
+        <item itemvalue="TestNG.Topic_07_Custom_Dropdown_Part_I.TC_03_React" />
+        <item itemvalue="TestNG.Topic_07_Custom_Dropdown_Part_I.TC_02_Angular" />
       </list>
     </recent_temporary>
   </component>
@@ -135,34 +135,54 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="92" y="92" width="1182" height="544" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1604462652518">
+    <state x="92" y="92" width="1182" height="544" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1604982944451">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="92" y="92" width="1182" height="544" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1366.728@0.0.1366.728" timestamp="1604462652518" />
+    <state x="92" y="92" width="1182" height="544" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1366.728@0.0.1366.728" timestamp="1604982944451" />
     <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1604484113039">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1604484113039" />
-    <state width="1323" height="192" key="GridCell.Tab.0.bottom" timestamp="1604573916964">
+    <state width="1323" height="211" key="GridCell.Tab.0.bottom" timestamp="1605178823464">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="192" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1604573916964" />
-    <state width="1323" height="192" key="GridCell.Tab.0.center" timestamp="1604573916964">
+    <state width="1323" height="211" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1605178823464" />
+    <state width="1323" height="211" key="GridCell.Tab.0.center" timestamp="1605178823464">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="192" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1604573916964" />
-    <state width="1323" height="192" key="GridCell.Tab.0.left" timestamp="1604573916964">
+    <state width="1323" height="211" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1605178823464" />
+    <state width="1323" height="211" key="GridCell.Tab.0.left" timestamp="1605178823464">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="192" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1604573916964" />
-    <state width="1323" height="192" key="GridCell.Tab.0.right" timestamp="1604573916964">
+    <state width="1323" height="211" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1605178823464" />
+    <state width="1323" height="211" key="GridCell.Tab.0.right" timestamp="1605178823464">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="192" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1604573916964" />
-    <state x="184" y="9" key="SettingsEditor" timestamp="1604573884583">
+    <state width="1323" height="211" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1605178823464" />
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1604920770200">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1604573884583" />
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1604920770200" />
+    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1604920770200">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1604920770200" />
+    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1604920770199">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1604920770199" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1604920770200">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1604920770200" />
+    <state x="115" y="18" key="SettingsEditor" timestamp="1605066086177">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="115" y="18" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1605066086177" />
+    <state x="339" y="162" width="672" height="677" key="run.anything.popup" timestamp="1604919490113">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" width="672" height="677" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1604919490113" />
     <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1604385636261">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

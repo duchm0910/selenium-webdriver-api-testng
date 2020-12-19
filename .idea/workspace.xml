@@ -2,38 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="90ff13bb-d7d8-4216-91c8-6932743122ea" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/selenium-webdriver-api-testing/javaForTest/Sample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/selenium-webdriver-api-testing/javaForTest/Sample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/selenium-webdriver-api-testing/javaForTest/Topic_03_Data_Type.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/selenium-webdriver-api-testing/javaForTest/Topic_03_Data_Type.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/selenium-webdriver-api-testing/webdriver/Topic_01_Check_Environment.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/selenium-webdriver-api-testing/webdriver/Topic_01_Check_Environment.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/selenium-webdriver-api-testing/webdriver/Topic_02_Firefox_Chrome_Edge.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/selenium-webdriver-api-testing/webdriver/Topic_02_Firefox_Chrome_Edge.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/selenium-webdriver-api-testing/webdriver/Topic_02_Xpath_Css_Part_II_FindElement.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/selenium-webdriver-api-testing/webdriver/Topic_02_Xpath_Css_Part_II_FindElement.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/selenium-webdriver-api-testing/webdriver/Topic_02_Xpath_Css_Part_I_Locator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/selenium-webdriver-api-testing/webdriver/Topic_02_Xpath_Css_Part_I_Locator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/selenium-webdriver-api-testing/webdriver/Topic_04_Webbrowser_Command_Part_I.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/selenium-webdriver-api-testing/webdriver/Topic_04_Webbrowser_Command_Part_I.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/selenium-webdriver-api-testing/webdriver/Topic_04_Webdriver_Command_Part_II.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/selenium-webdriver-api-testing/webdriver/Topic_04_Webdriver_Command_Part_II.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/selenium-webdriver-api-testing/webdriver/Topic_05_Webdriver_Element_Part_I.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/selenium-webdriver-api-testing/webdriver/Topic_05_Webdriver_Element_Part_I.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/selenium-webdriver-api-testing/webdriver/Topic_05_Webdriver_Element_Part_II.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/selenium-webdriver-api-testing/webdriver/Topic_05_Webdriver_Element_Part_II.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/selenium-webdriver-api-testing/webdriver/Topic_06_Textbox_Textarea.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/selenium-webdriver-api-testing/webdriver/Topic_06_Textbox_Textarea.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/selenium-webdriver-api-testing/webdriver/Topic_07_Custom_Dropdown_Part_I.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/selenium-webdriver-api-testing/webdriver/Topic_07_Custom_Dropdown_Part_I.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/selenium-webdriver-api-testing/webdriver/Topic_07_Default_Dropdown.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/selenium-webdriver-api-testing/webdriver/Topic_07_Default_Dropdown.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/browserDriver/chromedriver.exe" beforeDir="false" afterPath="$PROJECT_DIR$/browserDriver/chromedriver.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/selenium-webdriver-api-testing/META-INF/selenium-webdriver-api-testing.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/selenium-webdriver-api-testing/javaForTest/Topic_05_Split.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/selenium-webdriver-api-testing/javaForTest/Topic_05_Split.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/selenium-webdriver-api-testing.iml" beforeDir="false" afterPath="$PROJECT_DIR$/selenium-webdriver-api-testing.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaForTest/Sample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaForTest/Sample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaForTest/Topic_01_Random_Email.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaForTest/Topic_01_Random_Email.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaForTest/Topic_02_Get_Driver_Path.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaForTest/Topic_02_Get_Driver_Path.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaForTest/Topic_03_Data_Type.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaForTest/Topic_03_Data_Type.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webdriver/Topic_01_Check_Environment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/webdriver/Topic_01_Check_Environment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webdriver/Topic_02_Firefox_Chrome_Edge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/webdriver/Topic_02_Firefox_Chrome_Edge.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webdriver/Topic_02_Xpath_Css_Part_II_FindElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/webdriver/Topic_02_Xpath_Css_Part_II_FindElement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webdriver/Topic_02_Xpath_Css_Part_I_Locator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/webdriver/Topic_02_Xpath_Css_Part_I_Locator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webdriver/Topic_04_Webbrowser_Command_Part_I.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/webdriver/Topic_04_Webbrowser_Command_Part_I.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webdriver/Topic_04_Webdriver_Command_Part_II.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/webdriver/Topic_04_Webdriver_Command_Part_II.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webdriver/Topic_05_Webdriver_Element_Part_I.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/webdriver/Topic_05_Webdriver_Element_Part_I.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webdriver/Topic_05_Webdriver_Element_Part_II.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/webdriver/Topic_05_Webdriver_Element_Part_II.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webdriver/Topic_06_Textbox_Textarea.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/webdriver/Topic_06_Textbox_Textarea.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webdriver/Topic_07_Custom_Dropdown_Part_I.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/webdriver/Topic_07_Custom_Dropdown_Part_I.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webdriver/Topic_07_Custom_Dropdown_Part_II.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/webdriver/Topic_07_Custom_Dropdown_Part_II.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webdriver/Topic_07_Default_Dropdown.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/webdriver/Topic_07_Default_Dropdown.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javaForTest/Topic_05_Split.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaForTest/Topic_05_Split.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -77,6 +51,37 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="-1281734573">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.4" value="2" />
+          <entry key="project.open.time.5" value="3" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="2575" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="2575" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FavoritesManager">
     <favorites_list name="selenium-webdriver-api-testing" />
@@ -84,16 +89,28 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/webdriver/Topic_10_User_Interaction_Part_II.java">
+        <entry file="file://$PROJECT_DIR$/src/webdriver/Topic_12_Iframe_Frame.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="513">
-              <caret line="140" column="21" selection-start-line="140" selection-start-column="21" selection-end-line="140" selection-end-column="21" />
+            <state relative-caret-position="315">
+              <caret line="97" column="50" selection-start-line="97" selection-start-column="50" selection-end-line="97" selection-end-column="50" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="method#beforeClass#0;class#Topic_10_User_Interaction_Part_II#0" expanded="true" />
-                <element signature="method#TC_03_Drag_Drop_HTML5_Jquery#0;class#Topic_10_User_Interaction_Part_II#0" expanded="true" />
-                <element signature="e#3116#3117#0" expanded="true" />
-                <element signature="e#3139#3140#0" expanded="true" />
+                <element signature="method#beforeClass#0;class#Topic_12_Iframe_Frame#0" expanded="true" />
+                <element signature="e#3463#3471#0" expanded="true" />
+                <element signature="e#3917#3918#0" expanded="true" />
+                <element signature="e#3940#3941#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/webdriver/Topic_11_Popup.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="115" column="2" lean-forward="true" selection-start-line="115" selection-start-column="2" selection-end-line="121" selection-end-column="3" />
+              <folding>
+                <element signature="method#Test_04_Random_Popup_Not_In_DOM#0;class#Topic_11_Popup#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -116,7 +133,6 @@
       <list>
         <option value="$PROJECT_DIR$/src/webdriver/Topic_07_Custom_Dropdown_Part_I.java" />
         <option value="$PROJECT_DIR$/src/webdriver/Topic_08_Button_Radio_Checkbox.java" />
-        <option value="$PROJECT_DIR$/src/javaForTest/Topic_05_Split.java" />
         <option value="$PROJECT_DIR$/src/webdriver/Topic_09_Alert.java" />
         <option value="$PROJECT_DIR$/src/javaForTest/Example.java" />
         <option value="$PROJECT_DIR$/src/javaForTest/Topic_03_Data_Type.java" />
@@ -124,6 +140,9 @@
         <option value="$PROJECT_DIR$/DragAndDrop/drag_and_drop_helper.js" />
         <option value="$PROJECT_DIR$/DragAndDrop/jquery_load_helper.js" />
         <option value="$PROJECT_DIR$/src/webdriver/Topic_10_User_Interaction_Part_II.java" />
+        <option value="$PROJECT_DIR$/src/webdriver/Topic_11_Popup.java" />
+        <option value="$PROJECT_DIR$/src/javaForTest/Topic_05_Split.java" />
+        <option value="$PROJECT_DIR$/src/webdriver/Topic_12_Iframe_Frame.java" />
       </list>
     </option>
   </component>
@@ -172,33 +191,27 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="selenium-webdriver-api-testing" type="b2602c69:ProjectViewProjectNode" />
-              <item name="selenium-webdriver-api-testng" type="462c0819:PsiDirectoryNode" />
+              <item name="selenium-webdriver-api-testing" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="selenium-webdriver-api-testing" type="b2602c69:ProjectViewProjectNode" />
-              <item name="selenium-webdriver-api-testng" type="462c0819:PsiDirectoryNode" />
-              <item name="autoIT" type="462c0819:PsiDirectoryNode" />
+              <item name="selenium-webdriver-api-testing" type="462c0819:PsiDirectoryNode" />
+              <item name="browserDriver" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="selenium-webdriver-api-testing" type="b2602c69:ProjectViewProjectNode" />
-              <item name="selenium-webdriver-api-testng" type="462c0819:PsiDirectoryNode" />
+              <item name="selenium-webdriver-api-testing" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="selenium-webdriver-api-testing" type="b2602c69:ProjectViewProjectNode" />
-              <item name="selenium-webdriver-api-testng" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="javaForTest" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="selenium-webdriver-api-testing" type="b2602c69:ProjectViewProjectNode" />
-              <item name="selenium-webdriver-api-testng" type="462c0819:PsiDirectoryNode" />
+              <item name="selenium-webdriver-api-testing" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="webdriver" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -206,7 +219,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="ProjectViewState">
@@ -215,15 +228,16 @@
   </component>
   <component name="PropertiesComponent">
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1606460980094" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../03 - Java Hydrid Framework" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1608418939250" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../01 - Sorfware/hamcrest-2.2.jar!/" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+    <property name="settings.editor.selected.configurable" value="Shelf.Project.Settings" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Selenium Online 18\02 - Selenium API\selenium-webdriver-api-testing\browserDriver" />
       <recent name="E:\Selenium Online 18\02 - Selenium API\selenium-webdriver-api-testng\autoIT" />
       <recent name="E:\Selenium Online 18\02 - Selenium API\libraries" />
       <recent name="E:\Selenium Online 18\02 - Selenium API\browserDriver" />
@@ -241,8 +255,21 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.Topic_10_User_Interaction_Part_II.TC_04_Drag_Drop_HTML5_Position">
-    <configuration name="Topic_10_User_Interaction_Part_II.TC_01_Right_Click" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.Topic_12_Iframe_Frame.TC_02_Iframe">
+    <configuration name="Topic_05_Split" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaForTest.Topic_05_Split" />
+      <module name="selenium-webdriver-api-testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javaForTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Topic_11_Popup.Test_03_Random_Popup" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="selenium-webdriver-api-testing" />
       <extension name="coverage">
         <pattern>
@@ -251,8 +278,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="webdriver" />
-      <option name="MAIN_CLASS_NAME" value="webdriver.Topic_10_User_Interaction_Part_II" />
-      <option name="METHOD_NAME" value="TC_01_Right_Click" />
+      <option name="MAIN_CLASS_NAME" value="webdriver.Topic_11_Popup" />
+      <option name="METHOD_NAME" value="Test_03_Random_Popup" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -260,7 +287,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Topic_10_User_Interaction_Part_II.TC_02_Drag_Drop_HTML4" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Topic_11_Popup.Test_04_Random_Popup_Not_In_DOM" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="selenium-webdriver-api-testing" />
       <extension name="coverage">
         <pattern>
@@ -269,8 +296,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="webdriver" />
-      <option name="MAIN_CLASS_NAME" value="webdriver.Topic_10_User_Interaction_Part_II" />
-      <option name="METHOD_NAME" value="TC_02_Drag_Drop_HTML4" />
+      <option name="MAIN_CLASS_NAME" value="webdriver.Topic_11_Popup" />
+      <option name="METHOD_NAME" value="Test_04_Random_Popup_Not_In_DOM" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -278,7 +305,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Topic_10_User_Interaction_Part_II.TC_03_Drag_Drop_HTML5_Jquery" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Topic_12_Iframe_Frame.TC_01_Iframe" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="selenium-webdriver-api-testing" />
       <extension name="coverage">
         <pattern>
@@ -287,8 +314,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="webdriver" />
-      <option name="MAIN_CLASS_NAME" value="webdriver.Topic_10_User_Interaction_Part_II" />
-      <option name="METHOD_NAME" value="TC_03_Drag_Drop_HTML5_Jquery" />
+      <option name="MAIN_CLASS_NAME" value="webdriver.Topic_12_Iframe_Frame" />
+      <option name="METHOD_NAME" value="TC_01_Iframe" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -296,7 +323,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Topic_10_User_Interaction_Part_II.TC_04_Drag_Drop_HTML5_Position" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Topic_12_Iframe_Frame.TC_02_Iframe" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="selenium-webdriver-api-testing" />
       <extension name="coverage">
         <pattern>
@@ -305,26 +332,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="webdriver" />
-      <option name="MAIN_CLASS_NAME" value="webdriver.Topic_10_User_Interaction_Part_II" />
-      <option name="METHOD_NAME" value="TC_04_Drag_Drop_HTML5_Position" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Topic_10_User_Interaction_Part_I.TC_05_Double_Click" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="selenium-webdriver-api-testing" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="webdriver.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="webdriver" />
-      <option name="MAIN_CLASS_NAME" value="webdriver.Topic_10_User_Interaction_Part_I" />
-      <option name="METHOD_NAME" value="TC_05_Double_Click" />
+      <option name="MAIN_CLASS_NAME" value="webdriver.Topic_12_Iframe_Frame" />
+      <option name="METHOD_NAME" value="TC_02_Iframe" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -333,19 +342,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="TestNG.Topic_10_User_Interaction_Part_I.TC_05_Double_Click" />
-      <item itemvalue="TestNG.Topic_10_User_Interaction_Part_II.TC_01_Right_Click" />
-      <item itemvalue="TestNG.Topic_10_User_Interaction_Part_II.TC_02_Drag_Drop_HTML4" />
-      <item itemvalue="TestNG.Topic_10_User_Interaction_Part_II.TC_03_Drag_Drop_HTML5_Jquery" />
-      <item itemvalue="TestNG.Topic_10_User_Interaction_Part_II.TC_04_Drag_Drop_HTML5_Position" />
+      <item itemvalue="TestNG.Topic_11_Popup.Test_03_Random_Popup" />
+      <item itemvalue="TestNG.Topic_11_Popup.Test_04_Random_Popup_Not_In_DOM" />
+      <item itemvalue="Application.Topic_05_Split" />
+      <item itemvalue="TestNG.Topic_12_Iframe_Frame.TC_01_Iframe" />
+      <item itemvalue="TestNG.Topic_12_Iframe_Frame.TC_02_Iframe" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.Topic_10_User_Interaction_Part_II.TC_04_Drag_Drop_HTML5_Position" />
-        <item itemvalue="TestNG.Topic_10_User_Interaction_Part_II.TC_03_Drag_Drop_HTML5_Jquery" />
-        <item itemvalue="TestNG.Topic_10_User_Interaction_Part_II.TC_02_Drag_Drop_HTML4" />
-        <item itemvalue="TestNG.Topic_10_User_Interaction_Part_II.TC_01_Right_Click" />
-        <item itemvalue="TestNG.Topic_10_User_Interaction_Part_I.TC_05_Double_Click" />
+        <item itemvalue="TestNG.Topic_12_Iframe_Frame.TC_02_Iframe" />
+        <item itemvalue="TestNG.Topic_12_Iframe_Frame.TC_01_Iframe" />
+        <item itemvalue="Application.Topic_05_Split" />
+        <item itemvalue="TestNG.Topic_11_Popup.Test_04_Random_Popup_Not_In_DOM" />
+        <item itemvalue="TestNG.Topic_11_Popup.Test_03_Random_Popup" />
       </list>
     </recent_temporary>
   </component>
@@ -363,35 +372,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Topic_10_User_Interaction_Part_II_TC_02_Drag_Drop_HTML4 - 2020.11.27 at 11h 24m 19s.xml">
-      <configuration name="Topic_10_User_Interaction_Part_II.TC_02_Drag_Drop_HTML4" configurationId="TestNG" />
+    <history-entry file="Topic_11_Popup_Test_04_Random_Popup_Not_In_DOM - 2020.12.19 at 06h 10m 31s.xml">
+      <configuration name="Topic_11_Popup.Test_04_Random_Popup_Not_In_DOM" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Topic_10_User_Interaction_Part_II_TC_02_Drag_Drop_HTML4 - 2020.11.27 at 11h 25m 43s.xml">
-      <configuration name="Topic_10_User_Interaction_Part_II.TC_02_Drag_Drop_HTML4" configurationId="TestNG" />
+    <history-entry file="Topic_11_Popup_Test_04_Random_Popup_Not_In_DOM - 2020.12.19 at 06h 11m 21s.xml">
+      <configuration name="Topic_11_Popup.Test_04_Random_Popup_Not_In_DOM" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Topic_10_User_Interaction_Part_II_TC_02_Drag_Drop_HTML4 - 2020.11.27 at 11h 26m 34s.xml">
-      <configuration name="Topic_10_User_Interaction_Part_II.TC_02_Drag_Drop_HTML4" configurationId="TestNG" />
+    <history-entry file="Topic_11_Popup_Test_04_Random_Popup_Not_In_DOM - 2020.12.19 at 06h 12m 01s.xml">
+      <configuration name="Topic_11_Popup.Test_04_Random_Popup_Not_In_DOM" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Topic_10_User_Interaction_Part_II_TC_02_Drag_Drop_HTML4 - 2020.11.27 at 11h 28m 47s.xml">
-      <configuration name="Topic_10_User_Interaction_Part_II.TC_02_Drag_Drop_HTML4" configurationId="TestNG" />
+    <history-entry file="Topic_12_Iframe_Frame_TC_01_Iframe - 2020.12.19 at 09h 10m 19s.xml">
+      <configuration name="Topic_12_Iframe_Frame.TC_01_Iframe" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Topic_10_User_Interaction_Part_II_TC_02_Drag_Drop_HTML4 - 2020.11.27 at 11h 29m 31s.xml">
-      <configuration name="Topic_10_User_Interaction_Part_II.TC_02_Drag_Drop_HTML4" configurationId="TestNG" />
+    <history-entry file="Topic_12_Iframe_Frame_TC_01_Iframe - 2020.12.19 at 09h 11m 21s.xml">
+      <configuration name="Topic_12_Iframe_Frame.TC_01_Iframe" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Topic_10_User_Interaction_Part_II_TC_02_Drag_Drop_HTML4 - 2020.11.27 at 11h 31m 11s.xml">
-      <configuration name="Topic_10_User_Interaction_Part_II.TC_02_Drag_Drop_HTML4" configurationId="TestNG" />
+    <history-entry file="Topic_12_Iframe_Frame_TC_01_Iframe - 2020.12.20 at 05h 22m 23s.xml">
+      <configuration name="Topic_12_Iframe_Frame.TC_01_Iframe" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Topic_10_User_Interaction_Part_II_TC_02_Drag_Drop_HTML4 - 2020.11.27 at 11h 31m 45s.xml">
-      <configuration name="Topic_10_User_Interaction_Part_II.TC_02_Drag_Drop_HTML4" configurationId="TestNG" />
+    <history-entry file="Topic_12_Iframe_Frame_TC_02_Iframe - 2020.12.20 at 05h 39m 35s.xml">
+      <configuration name="Topic_12_Iframe_Frame.TC_02_Iframe" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Topic_10_User_Interaction_Part_II_TC_03_Drag_Drop_HTML5_Jquery - 2020.11.27 at 13h 58m 05s.xml">
-      <configuration name="Topic_10_User_Interaction_Part_II.TC_03_Drag_Drop_HTML5_Jquery" configurationId="TestNG" />
+    <history-entry file="Topic_12_Iframe_Frame_TC_02_Iframe - 2020.12.20 at 05h 40m 30s.xml">
+      <configuration name="Topic_12_Iframe_Frame.TC_02_Iframe" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Topic_10_User_Interaction_Part_II_TC_03_Drag_Drop_HTML5_Jquery - 2020.11.27 at 13h 59m 02s.xml">
-      <configuration name="Topic_10_User_Interaction_Part_II.TC_03_Drag_Drop_HTML5_Jquery" configurationId="TestNG" />
+    <history-entry file="Topic_12_Iframe_Frame_TC_02_Iframe - 2020.12.20 at 05h 41m 32s.xml">
+      <configuration name="Topic_12_Iframe_Frame.TC_02_Iframe" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Topic_10_User_Interaction_Part_II_TC_03_Drag_Drop_HTML5_Jquery - 2020.11.27 at 14h 00m 18s.xml">
-      <configuration name="Topic_10_User_Interaction_Part_II.TC_03_Drag_Drop_HTML5_Jquery" configurationId="TestNG" />
+    <history-entry file="Topic_12_Iframe_Frame_TC_02_Iframe - 2020.12.20 at 05h 57m 59s.xml">
+      <configuration name="Topic_12_Iframe_Frame.TC_02_Iframe" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="TodoView">
@@ -407,7 +416,7 @@
     <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4992908" weight="0.2342282" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4992908" weight="0.13825503" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -416,7 +425,7 @@
       <window_info id="Favorites" order="6" sideWeight="0.50070924" side_tool="true" weight="0.22416107" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32907802" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.29542303" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.33006993" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -439,62 +448,46 @@
       <window_info anchor="right" x="0" y="0" width="337" height="648" id="Documentation" order="10" side_tool="true" weight="0.3295302" />
     </layout>
   </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="92" y="92" width="1182" height="544" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1604982944451">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="92" y="92" width="1182" height="544" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1366.728@0.0.1366.728" timestamp="1604982944451" />
-    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1604484113039">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1604484113039" />
-    <state width="1323" height="211" key="GridCell.Tab.0.bottom" timestamp="1605178823464">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="211" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1605178823464" />
-    <state width="1323" height="211" key="GridCell.Tab.0.center" timestamp="1605178823464">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="211" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1605178823464" />
-    <state width="1323" height="211" key="GridCell.Tab.0.left" timestamp="1605178823464">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="211" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1605178823464" />
-    <state width="1323" height="211" key="GridCell.Tab.0.right" timestamp="1605178823464">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="211" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1605178823464" />
-    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1604920770200">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1604920770200" />
-    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1604920770200">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1604920770200" />
-    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1604920770199">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1604920770199" />
-    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1604920770200">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1604920770200" />
-    <state x="115" y="18" key="SettingsEditor" timestamp="1605066086177">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="115" y="18" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1605066086177" />
-    <state x="339" y="162" width="672" height="677" key="run.anything.popup" timestamp="1604919490113">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="339" y="162" width="672" height="677" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1604919490113" />
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1604385636261">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1604385636261" />
+    <state x="92" y="92" width="1182" height="544" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" />
+    <state x="92" y="92" width="1182" height="544" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1366.728@0.0.1366.728" />
+    <state x="463" y="119" key="FileChooserDialogImpl" />
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" />
+    <state width="1323" height="211" key="GridCell.Tab.0.bottom" />
+    <state width="1323" height="211" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" />
+    <state width="1323" height="211" key="GridCell.Tab.0.center" />
+    <state width="1323" height="211" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" />
+    <state width="1323" height="211" key="GridCell.Tab.0.left" />
+    <state width="1323" height="211" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" />
+    <state width="1323" height="211" key="GridCell.Tab.0.right" />
+    <state width="1323" height="211" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" />
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom" />
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" />
+    <state width="1323" height="223" key="GridCell.Tab.1.center" />
+    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" />
+    <state width="1323" height="223" key="GridCell.Tab.1.left" />
+    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" />
+    <state x="115" y="18" key="SettingsEditor" />
+    <state x="115" y="18" key="SettingsEditor/0.0.1366.728@0.0.1366.728" />
+    <state x="339" y="162" width="672" height="677" key="run.anything.popup" />
+    <state x="339" y="162" width="672" height="677" key="run.anything.popup/0.0.1366.728@0.0.1366.728" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand>
@@ -534,13 +527,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaForTest/Topic_05_Split.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="35" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/javaForTest/Topic_02_Get_Driver_Path.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -566,9 +552,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="836">
           <caret line="151" column="35" selection-start-line="151" selection-start-column="35" selection-end-line="151" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -597,9 +580,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="183">
           <caret line="145" column="3" lean-forward="true" selection-start-line="145" selection-start-column="3" selection-end-line="145" selection-end-column="3" />
-          <folding>
-            <element signature="method#TC_05_Double_Click#0;class#Topic_10_User_Interaction_Part_I#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -619,14 +599,38 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/webdriver/Topic_10_User_Interaction_Part_II.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="140" column="21" selection-start-line="140" selection-start-column="21" selection-end-line="140" selection-end-column="21" />
+        <state relative-caret-position="616">
+          <caret line="149" column="2" selection-start-line="149" selection-start-column="2" selection-end-line="155" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaForTest/Topic_05_Split.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="34" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/webdriver/Topic_11_Popup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="115" column="2" lean-forward="true" selection-start-line="115" selection-start-column="2" selection-end-line="121" selection-end-column="3" />
+          <folding>
+            <element signature="method#Test_04_Random_Popup_Not_In_DOM#0;class#Topic_11_Popup#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/webdriver/Topic_12_Iframe_Frame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="97" column="50" selection-start-line="97" selection-start-column="50" selection-end-line="97" selection-end-column="50" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="method#beforeClass#0;class#Topic_10_User_Interaction_Part_II#0" expanded="true" />
-            <element signature="method#TC_03_Drag_Drop_HTML5_Jquery#0;class#Topic_10_User_Interaction_Part_II#0" expanded="true" />
-            <element signature="e#3116#3117#0" expanded="true" />
-            <element signature="e#3139#3140#0" expanded="true" />
+            <element signature="method#beforeClass#0;class#Topic_12_Iframe_Frame#0" expanded="true" />
+            <element signature="e#3463#3471#0" expanded="true" />
+            <element signature="e#3917#3918#0" expanded="true" />
+            <element signature="e#3940#3941#0" expanded="true" />
           </folding>
         </state>
       </provider>

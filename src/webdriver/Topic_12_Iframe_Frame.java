@@ -58,7 +58,7 @@ public class Topic_12_Iframe_Frame {
 
     Assert.assertEquals(
         driver.findElement(By.className("post-title")).getText(),
-        "[Training Online] – Fullstack Selenium WebDriver Framework in Java (Livestream)");
+        "[Training Online] – Fullstack Selenium Framework in Java (Livestream)");
 
 //    Switch to google doc iframe
     driver.switchTo().frame(driver.findElement(By.xpath("//iframe[contains(@src,'docs.google.com')]")));

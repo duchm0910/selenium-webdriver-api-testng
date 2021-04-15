@@ -3,8 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="90ff13bb-d7d8-4216-91c8-6932743122ea" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/selenium-webdriver-api-testing/webdriver/Topic_12_Iframe_Frame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/selenium-webdriver-api-testing/webdriver/Topic_12_Iframe_Frame.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webdriver/Topic_12_Iframe_Frame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/webdriver/Topic_12_Iframe_Frame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/browserDriver/chromedriver.exe" beforeDir="false" afterPath="$PROJECT_DIR$/browserDriver/chromedriver.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/selenium-webdriver-api-testing/chromedriver.exe" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/selenium-webdriver-api-testing/chromedriver.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/selenium-webdriver-api-testing/javaForTest/Topic_02_Get_Driver_Path.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/selenium-webdriver-api-testing/javaForTest/Topic_02_Get_Driver_Path.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium-webdriver-api-testing.iml" beforeDir="false" afterPath="$PROJECT_DIR$/selenium-webdriver-api-testing.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javaForTest/Topic_02_Get_Driver_Path.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaForTest/Topic_02_Get_Driver_Path.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -51,34 +54,36 @@
     <session id="-1281734573">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="11" />
+          <entry key="project.closed" value="24" />
           <entry key="project.open.time.4" value="2" />
-          <entry key="project.open.time.5" value="5" />
-          <entry key="project.open.time.6" value="3" />
-          <entry key="project.open.time.7" value="3" />
-          <entry key="project.opened" value="13" />
+          <entry key="project.open.time.5" value="8" />
+          <entry key="project.open.time.6" value="9" />
+          <entry key="project.open.time.7" value="8" />
+          <entry key="project.opened" value="27" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="11" />
+          <entry key="java" value="28" />
+          <entry key="jpg" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="11" />
+          <entry key="Image" value="2" />
+          <entry key="JAVA" value="28" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="7" />
-          <entry key="java" value="6986" />
+          <entry key="dummy" value="8" />
+          <entry key="java" value="16127" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="6986" />
-          <entry key="PLAIN_TEXT" value="7" />
+          <entry key="JAVA" value="16127" />
+          <entry key="PLAIN_TEXT" value="8" />
         </counts>
       </usages-collector>
     </session>
@@ -87,47 +92,7 @@
     <favorites_list name="selenium-webdriver-api-testing" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/webdriver/Topic_14_Javascript_Executor_Part_II.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="527">
-              <caret line="76" column="43" selection-start-line="76" selection-start-column="43" selection-end-line="76" selection-end-column="43" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="method#removeAttributeInDOM#0;class#Topic_14_Javascript_Executor_Part_II#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/webdriver/Topic_06_Textbox_Textarea.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="686">
-              <caret line="130" column="3" lean-forward="true" selection-start-line="81" selection-start-column="2" selection-end-line="130" selection-end-column="3" />
-              <folding>
-                <element signature="method#beforeClass#0;class#Topic_06_Textbox_Textarea#0" expanded="true" />
-                <element signature="method#TC_03_New_Customer#0;class#Topic_06_Textbox_Textarea#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/webdriver/Topic_14_Javascript_Executor_Part_I.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="251">
-              <caret line="19" column="14" lean-forward="true" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="method#TC_03_Hidden_Element#0;class#Topic_14_Javascript_Executor_Part_I#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -169,13 +134,26 @@
         <option value="$PROJECT_DIR$/src/webdriver/Topic_06_Textbox_Textarea.java" />
         <option value="$PROJECT_DIR$/src/webdriver/Topic_14_Javascript_Executor_Part_II.java" />
         <option value="$PROJECT_DIR$/src/webdriver/Topic_14_Javascript_Executor_Part_I.java" />
+        <option value="$PROJECT_DIR$/src/webdriver/Topic_14_Wait_Part_I.java" />
+        <option value="$PROJECT_DIR$/src/webdriver/Topic_16_Wait_Part_II.java" />
+        <option value="$PROJECT_DIR$/src/webdriver/Topic_16_Wait_Part_III.java" />
+        <option value="$PROJECT_DIR$/src/webdriver/Topic_06_Wait_Part_IV.java" />
+        <option value="$PROJECT_DIR$/src/webdriver/Topic_16_Wait_Part_IV.java" />
+        <option value="$PROJECT_DIR$/src/webdriver/Topic_16_Wait_Part_V.java" />
+        <option value="$PROJECT_DIR$/src/webdriver/Topic_16_Wait_Part_VI.java" />
+        <option value="$PROJECT_DIR$/src/webdriver/Topic_16_Wait_Part_VII.java" />
+        <option value="$PROJECT_DIR$/src/webdriver/Topic_16_Wait_Part_VIII.java" />
+        <option value="$PROJECT_DIR$/src/javaForTest/Topic_02_Get_Driver_Path.java" />
+        <option value="$PROJECT_DIR$/src/webdriver/Topic_15_Upload_File_I.java" />
+        <option value="$PROJECT_DIR$/src/webdriver/Topic_17_Download_File.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-1788" />
-    <option name="width" value="1152" />
-    <option name="height" value="620" />
+    <option name="x" value="-1767" />
+    <option name="y" value="-19" />
+    <option name="width" value="1550" />
+    <option name="height" value="848" />
   </component>
   <component name="ProjectId" id="1hWws2nlmkQiz7GXgb2BvORVyot" />
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -216,7 +194,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -236,15 +214,13 @@
             </path>
             <path>
               <item name="selenium-webdriver-api-testing" type="b2602c69:ProjectViewProjectNode" />
-              <item name="selenium-webdriver-api-testing" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="webdriver" type="462c0819:PsiDirectoryNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="ProjectViewState">
@@ -253,19 +229,26 @@
   </component>
   <component name="PropertiesComponent">
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1613559568335" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1617614404933" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../01 - Sorfware/hamcrest-2.2.jar!/" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="Shelf.Project.Settings" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Selenium Online 18\02 - Selenium API\selenium-webdriver-api-testing\uploadFile" />
       <recent name="E:\Selenium Online 18\02 - Selenium API\selenium-webdriver-api-testing\browserDriver" />
       <recent name="E:\Selenium Online 18\02 - Selenium API\selenium-webdriver-api-testng\autoIT" />
       <recent name="E:\Selenium Online 18\02 - Selenium API\libraries" />
       <recent name="E:\Selenium Online 18\02 - Selenium API\browserDriver" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="webdriver" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Selenium Online 18\02 - Selenium API\selenium-webdriver-api-testing\uploadFile" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -280,8 +263,21 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.Topic_14_Javascript_Executor_Part_I.TC_03_Hidden_Element">
-    <configuration name="Topic_13_Window_Tab.TC_01_Only_2_Window_Tab" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.Topic_15_Upload_File_I.TC_05_Java_Robot">
+    <configuration name="Topic_02_Get_Driver_Path" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaForTest.Topic_02_Get_Driver_Path" />
+      <module name="selenium-webdriver-api-testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javaForTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Topic_15_Upload_File_I" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="selenium-webdriver-api-testing" />
       <extension name="coverage">
         <pattern>
@@ -290,8 +286,24 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="webdriver" />
-      <option name="MAIN_CLASS_NAME" value="webdriver.Topic_13_Window_Tab" />
-      <option name="METHOD_NAME" value="TC_01_Only_2_Window_Tab" />
+      <option name="MAIN_CLASS_NAME" value="webdriver.Topic_15_Upload_File_I" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Topic_15_Upload_File_I.TC_02_Sendkey_Multi_File_Per_Time" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="selenium-webdriver-api-testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="webdriver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="webdriver" />
+      <option name="MAIN_CLASS_NAME" value="webdriver.Topic_15_Upload_File_I" />
+      <option name="METHOD_NAME" value="TC_02_Sendkey_Multi_File_Per_Time" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -299,7 +311,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Topic_14_Javascript_Executor_Part_II.TC_03_New_Customer" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Topic_15_Upload_File_I.TC_03_Sendkey_Google_Translate" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="selenium-webdriver-api-testing" />
       <extension name="coverage">
         <pattern>
@@ -308,8 +320,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="webdriver" />
-      <option name="MAIN_CLASS_NAME" value="webdriver.Topic_14_Javascript_Executor_Part_II" />
-      <option name="METHOD_NAME" value="TC_03_New_Customer" />
+      <option name="MAIN_CLASS_NAME" value="webdriver.Topic_15_Upload_File_I" />
+      <option name="METHOD_NAME" value="TC_03_Sendkey_Google_Translate" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -317,7 +329,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Topic_14_Javascript_Executor_Part_I.TC_01_" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Topic_15_Upload_File_I.TC_05_Java_Robot" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="selenium-webdriver-api-testing" />
       <extension name="coverage">
         <pattern>
@@ -326,44 +338,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="webdriver" />
-      <option name="MAIN_CLASS_NAME" value="webdriver.Topic_14_Javascript_Executor_Part_I" />
-      <option name="METHOD_NAME" value="TC_01_" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Topic_14_Javascript_Executor_Part_I.TC_02_HTML_5_Validation" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="selenium-webdriver-api-testing" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="webdriver.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="webdriver" />
-      <option name="MAIN_CLASS_NAME" value="webdriver.Topic_14_Javascript_Executor_Part_I" />
-      <option name="METHOD_NAME" value="TC_02_HTML_5_Validation" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Topic_14_Javascript_Executor_Part_I.TC_03_Hidden_Element" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="selenium-webdriver-api-testing" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="webdriver.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="webdriver" />
-      <option name="MAIN_CLASS_NAME" value="webdriver.Topic_14_Javascript_Executor_Part_I" />
-      <option name="METHOD_NAME" value="TC_03_Hidden_Element" />
+      <option name="MAIN_CLASS_NAME" value="webdriver.Topic_15_Upload_File_I" />
+      <option name="METHOD_NAME" value="TC_05_Java_Robot" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -372,19 +348,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="TestNG.Topic_13_Window_Tab.TC_01_Only_2_Window_Tab" />
-      <item itemvalue="TestNG.Topic_14_Javascript_Executor_Part_I.TC_01_" />
-      <item itemvalue="TestNG.Topic_14_Javascript_Executor_Part_I.TC_02_HTML_5_Validation" />
-      <item itemvalue="TestNG.Topic_14_Javascript_Executor_Part_II.TC_03_New_Customer" />
-      <item itemvalue="TestNG.Topic_14_Javascript_Executor_Part_I.TC_03_Hidden_Element" />
+      <item itemvalue="TestNG.Topic_15_Upload_File_I" />
+      <item itemvalue="Application.Topic_02_Get_Driver_Path" />
+      <item itemvalue="TestNG.Topic_15_Upload_File_I.TC_02_Sendkey_Multi_File_Per_Time" />
+      <item itemvalue="TestNG.Topic_15_Upload_File_I.TC_03_Sendkey_Google_Translate" />
+      <item itemvalue="TestNG.Topic_15_Upload_File_I.TC_05_Java_Robot" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.Topic_14_Javascript_Executor_Part_I.TC_03_Hidden_Element" />
-        <item itemvalue="TestNG.Topic_14_Javascript_Executor_Part_II.TC_03_New_Customer" />
-        <item itemvalue="TestNG.Topic_14_Javascript_Executor_Part_I.TC_02_HTML_5_Validation" />
-        <item itemvalue="TestNG.Topic_14_Javascript_Executor_Part_I.TC_01_" />
-        <item itemvalue="TestNG.Topic_13_Window_Tab.TC_01_Only_2_Window_Tab" />
+        <item itemvalue="TestNG.Topic_15_Upload_File_I.TC_05_Java_Robot" />
+        <item itemvalue="TestNG.Topic_15_Upload_File_I.TC_03_Sendkey_Google_Translate" />
+        <item itemvalue="TestNG.Topic_15_Upload_File_I.TC_02_Sendkey_Multi_File_Per_Time" />
+        <item itemvalue="TestNG.Topic_15_Upload_File_I" />
+        <item itemvalue="Application.Topic_02_Get_Driver_Path" />
       </list>
     </recent_temporary>
   </component>
@@ -402,35 +378,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Topic_14_Javascript_Executor_TC_01_ - 2021.01.11 at 17h 55m 22s.xml">
-      <configuration name="Topic_14_Javascript_Executor.TC_01_" configurationId="TestNG" />
+    <history-entry file="Topic_15_Upload_File_I_TC_02_Sendkey_Multi_File_Per_Time - 2021.03.31 at 16h 36m 07s.xml">
+      <configuration name="Topic_15_Upload_File_I.TC_02_Sendkey_Multi_File_Per_Time" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Topic_14_Javascript_Executor_TC_01_ - 2021.01.11 at 17h 57m 23s.xml">
-      <configuration name="Topic_14_Javascript_Executor.TC_01_" configurationId="TestNG" />
+    <history-entry file="Topic_15_Upload_File_I_TC_02_Sendkey_Multi_File_Per_Time - 2021.03.31 at 16h 36m 58s.xml">
+      <configuration name="Topic_15_Upload_File_I.TC_02_Sendkey_Multi_File_Per_Time" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Topic_14_Javascript_Executor_TC_01_ - 2021.01.11 at 17h 58m 18s.xml">
-      <configuration name="Topic_14_Javascript_Executor.TC_01_" configurationId="TestNG" />
+    <history-entry file="Topic_15_Upload_File_I_TC_02_Sendkey_Multi_File_Per_Time - 2021.03.31 at 16h 46m 32s.xml">
+      <configuration name="Topic_15_Upload_File_I.TC_02_Sendkey_Multi_File_Per_Time" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Topic_14_Javascript_Executor_TC_01_ - 2021.01.14 at 16h 40m 13s.xml">
-      <configuration name="Topic_14_Javascript_Executor.TC_01_" configurationId="TestNG" />
+    <history-entry file="Topic_15_Upload_File_I_TC_02_Sendkey_Multi_File_Per_Time - 2021.04.02 at 10h 40m 50s.xml">
+      <configuration name="Topic_15_Upload_File_I.TC_02_Sendkey_Multi_File_Per_Time" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Topic_14_Javascript_Executor_TC_02_HTML_5_Validation - 2021.02.17 at 17h 32m 57s.xml">
-      <configuration name="Topic_14_Javascript_Executor.TC_02_HTML_5_Validation" configurationId="TestNG" />
+    <history-entry file="Topic_15_Upload_File_I_TC_02_Sendkey_Multi_File_Per_Time - 2021.04.02 at 10h 41m 24s.xml">
+      <configuration name="Topic_15_Upload_File_I.TC_02_Sendkey_Multi_File_Per_Time" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Topic_14_Javascript_Executor_TC_02_HTML_5_Validation - 2021.02.17 at 17h 33m 23s.xml">
-      <configuration name="Topic_14_Javascript_Executor.TC_02_HTML_5_Validation" configurationId="TestNG" />
+    <history-entry file="Topic_15_Upload_File_I_TC_02_Sendkey_Multi_File_Per_Time - 2021.04.02 at 10h 42m 14s.xml">
+      <configuration name="Topic_15_Upload_File_I.TC_02_Sendkey_Multi_File_Per_Time" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Topic_14_Javascript_Executor_Part_II_TC_03_New_Customer - 2021.02.17 at 17h 53m 29s.xml">
-      <configuration name="Topic_14_Javascript_Executor_Part_II.TC_03_New_Customer" configurationId="TestNG" />
+    <history-entry file="Topic_15_Upload_File_I_TC_03_Sendkey_Google_Translate - 2021.04.02 at 10h 52m 24s.xml">
+      <configuration name="Topic_15_Upload_File_I.TC_03_Sendkey_Google_Translate" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Topic_14_Javascript_Executor_Part_II_TC_03_New_Customer - 2021.02.17 at 17h 54m 03s.xml">
-      <configuration name="Topic_14_Javascript_Executor_Part_II.TC_03_New_Customer" configurationId="TestNG" />
+    <history-entry file="Topic_15_Upload_File_I_TC_05_Java_Robot - 2021.04.02 at 11h 41m 11s.xml">
+      <configuration name="Topic_15_Upload_File_I.TC_05_Java_Robot" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Topic_14_Javascript_Executor_Part_I_TC_03_Hidden_Element - 2021.02.17 at 17h 57m 12s.xml">
-      <configuration name="Topic_14_Javascript_Executor_Part_I.TC_03_Hidden_Element" configurationId="TestNG" />
+    <history-entry file="Topic_15_Upload_File_I_TC_05_Java_Robot - 2021.04.02 at 11h 41m 31s.xml">
+      <configuration name="Topic_15_Upload_File_I.TC_05_Java_Robot" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Topic_14_Javascript_Executor_Part_I_TC_03_Hidden_Element - 2021.02.17 at 17h 57m 38s.xml">
-      <configuration name="Topic_14_Javascript_Executor_Part_I.TC_03_Hidden_Element" configurationId="TestNG" />
+    <history-entry file="Topic_15_Upload_File_I_TC_05_Java_Robot - 2021.04.02 at 11h 42m 01s.xml">
+      <configuration name="Topic_15_Upload_File_I.TC_05_Java_Robot" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="TodoView">
@@ -443,10 +419,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1928" y="-8" width="1936" height="1066" extended-state="6" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4992908" weight="0.20682302" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4992908" visible="true" weight="0.23288591" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -454,17 +429,17 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" sideWeight="0.50070924" side_tool="true" weight="0.22416107" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32907802" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32618025" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32832617" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2746781" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="CheckStyle" order="6" sideWeight="0.49932885" weight="0.24615385" />
       <window_info anchor="bottom" id="TODO" order="7" weight="0.32867134" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32867134" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32832617" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50067115" side_tool="true" weight="0.24615385" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.32867134" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32827735" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32725322" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -557,13 +532,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaForTest/Topic_02_Get_Driver_Path.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/webdriver/Topic_07_Default_Dropdown.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="381">
@@ -645,9 +613,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="506">
           <caret line="115" column="2" selection-start-line="115" selection-start-column="2" selection-end-line="121" selection-end-column="3" />
-          <folding>
-            <element signature="method#Test_04_Random_Popup_Not_In_DOM#0;class#Topic_11_Popup#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -662,11 +627,27 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
           <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#beforeClass#0;class#Topic_12_Iframe_Frame#0" expanded="true" />
-            <element signature="method#TC_02_Iframe#0;class#Topic_12_Iframe_Frame#0" expanded="true" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/webdriver/Topic_06_Textbox_Textarea.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="682">
+          <caret line="130" column="3" selection-start-line="81" selection-start-column="2" selection-end-line="130" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/webdriver/Topic_14_Javascript_Executor_Part_II.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-590">
+          <caret line="76" column="43" selection-start-line="76" selection-start-column="43" selection-end-line="76" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/webdriver/Topic_14_Javascript_Executor_Part_I.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="19" column="14" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
         </state>
       </provider>
     </entry>
@@ -674,47 +655,113 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
           <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uploadFile/188074.jpg" />
+    <entry file="file://$PROJECT_DIR$/uploadFile/Background.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/webdriver/Topic_16_Wait_Part_I.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="25" column="24" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/webdriver/Topic_16_Wait_Part_II.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="14" column="2" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/webdriver/Topic_16_Wait_Part_III.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1430">
+          <caret line="65" selection-start-line="65" selection-end-line="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/webdriver/Topic_16_Wait_Part_IV.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="42" column="19" selection-start-line="42" selection-start-column="19" selection-end-line="42" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/webdriver/Topic_16_Wait_Part_V.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1012">
+          <caret line="54" column="2" selection-start-line="54" selection-start-column="2" selection-end-line="54" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/webdriver/Topic_16_Wait_Part_VIII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="33" column="22" selection-start-line="33" selection-start-column="22" selection-end-line="33" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="method#beforeClass#0;class#Topic_13_Window_Tab#0" expanded="true" />
-            <element signature="method#TC_01_Only_2_Window_Tab#0;class#Topic_13_Window_Tab#0" expanded="true" />
-            <element signature="method#TC_03_Compare_Produc#0;class#Topic_13_Window_Tab#0" expanded="true" />
-            <element signature="method#swicthToWindowID#0;class#Topic_13_Window_Tab#0" expanded="true" />
-            <element signature="method#switchToWindowByTitle#0;class#Topic_13_Window_Tab#0" expanded="true" />
-            <element signature="method#clossAllWindowExceptParent#0;class#Topic_13_Window_Tab#0" expanded="true" />
+            <element signature="class#1386:1649" />
+            <element signature="method#apply#0;class#1386:1649" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/webdriver/Topic_06_Textbox_Textarea.java">
+    <entry file="file://$PROJECT_DIR$/src/webdriver/Topic_16_Wait_Part_VII.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="686">
-          <caret line="130" column="3" lean-forward="true" selection-start-line="81" selection-start-column="2" selection-end-line="130" selection-end-column="3" />
+        <state relative-caret-position="814">
+          <caret line="143" column="25" selection-start-line="143" selection-start-column="25" selection-end-line="143" selection-end-column="25" />
           <folding>
-            <element signature="method#beforeClass#0;class#Topic_06_Textbox_Textarea#0" expanded="true" />
-            <element signature="method#TC_03_New_Customer#0;class#Topic_06_Textbox_Textarea#0" expanded="true" />
+            <element signature="method#TC_05_Not_Found_Element_Implicit_Greater_Explicit#0;class#Topic_16_Wait_Part_VII#0" expanded="true" />
+            <element signature="method#TC_06_Not_Found_Element_Only_Explicit_Param_By#0;class#Topic_16_Wait_Part_VII#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/webdriver/Topic_14_Javascript_Executor_Part_II.java">
+    <entry file="file://$PROJECT_DIR$/src/webdriver/Topic_15_Upload_File_I.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="76" column="43" selection-start-line="76" selection-start-column="43" selection-end-line="76" selection-end-column="43" />
+        <state relative-caret-position="286">
+          <caret line="33" selection-start-line="33" selection-end-line="35" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="method#removeAttributeInDOM#0;class#Topic_14_Javascript_Executor_Part_II#0" expanded="true" />
+            <element signature="method#TC_05_Java_Robot#0;class#Topic_15_Upload_File_I#0" expanded="true" />
+            <element signature="method#isImageLoadedSuccess#0;class#Topic_15_Upload_File_I#0" expanded="true" />
+            <element signature="method#sleepInSecond#0;class#Topic_15_Upload_File_I#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/webdriver/Topic_14_Javascript_Executor_Part_I.java">
+    <entry file="file://$PROJECT_DIR$/src/webdriver/Topic_16_Wait_Part_VI.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="251">
-          <caret line="19" column="14" lean-forward="true" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+        <state relative-caret-position="598">
+          <caret line="85" column="42" selection-start-line="85" selection-start-column="42" selection-end-line="85" selection-end-column="42" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="method#TC_03_Hidden_Element#0;class#Topic_14_Javascript_Executor_Part_I#0" expanded="true" />
+            <element signature="method#beforeClass#0;class#Topic_16_Wait_Part_VI#0" expanded="true" />
+            <element signature="method#TC_03_Only_Explicit#0;class#Topic_16_Wait_Part_VI#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaForTest/Topic_02_Get_Driver_Path.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="method#main#0;class#Topic_02_Get_Driver_Path#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/webdriver/Topic_17_Download_File.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#beforeClass#0;class#Topic_17_Download_File#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -783,7 +830,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>selenium-server-standalone-2.53.1</last-edited>
+          <last-edited>testng-6.14.3</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
